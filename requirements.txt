@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+firebase-admin
+openai
+python-multipart
+gtts
+whisper
+pydantic
+
